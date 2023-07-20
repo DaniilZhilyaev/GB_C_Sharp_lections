@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.exe
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.deps.json
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.runtimeconfig.json
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.pdb
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfo.cs
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\refint\Example001_HelloConcole.dll
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.pdb
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.genruntimeconfig.cache
+C:\Users\danii\Desktop\GeekBrains\3. Знкаомство с языками программирования\lecture 1\Example001_HelloConcole\obj\Debug\net6.0\ref\Example001_HelloConcole.dll
