@@ -52,3 +52,18 @@ string Method4(int count, string c)
 
 string res = Method4(10, "HA");
 Console.WriteLine(res);
+
+// For 
+
+string Method5(int count2, string c2)
+{
+    string result2 = String.Empty;
+    for(int i2 = 0; i2 < count2; i2++)
+    {
+        result2 = result2 + c2;
+    }
+    return result2;
+}
+
+string res2 = Method5(5, "Ho");
+Console.WriteLine(res2);
