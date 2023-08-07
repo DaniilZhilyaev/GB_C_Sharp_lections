@@ -67,3 +67,12 @@ string Method5(int count2, string c2)
 
 string res2 = Method5(5, "Ho");
 Console.WriteLine(res2);
+
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2;j<= 10; j++)
+    {
+        Console.WriteLine($"{i} * {j} = {i*j}");
+    }
+    Console.WriteLine();
+}
